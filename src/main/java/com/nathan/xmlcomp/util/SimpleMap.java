@@ -1,4 +1,4 @@
-package com.boomi.xmlcomp.util;
+package com.nathan.xmlcomp.util;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,10 +1,10 @@
-package com.boomi.xmlcomp;
+package com.nathan.xmlcomp;
 
 import java.io.File;
 import java.util.ArrayList;
 
-import com.boomi.xmlcomp.util.SimpleMap;
-import com.boomi.xmlcomp.util.Utils;
+import com.nathan.xmlcomp.util.SimpleMap;
+import com.nathan.xmlcomp.util.Utils;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
